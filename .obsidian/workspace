@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "08775b1ca859fd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc389ba0263ad66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DAS.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cd25f3933f16c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "149f678b3c3e6f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b88ff1d8c80902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "494dc22e46555382",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e9786873f1ec291",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d956af6804f1511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b188943074953dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cdc389ba0263ad66",
+  "lastOpenFiles": [
+    "DAS.md",
+    "SDS/Ceph.md",
+    "SAN.md",
+    "NAS.md",
+    "SDS/Untitled.md"
+  ]
+}
